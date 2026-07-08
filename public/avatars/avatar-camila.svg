@@ -1,0 +1,30 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- bg -->
+  <rect width="64" height="64" fill="#f0e4d0"/>
+  <!-- long hair behind — brown/dark with warm tone -->
+  <path d="M9 30 C9 14 16 7 32 7 C48 7 55 14 55 30 L58 70 L6 70Z" fill="#2d1206"/>
+  <!-- shoulders -->
+  <ellipse cx="32" cy="80" rx="26" ry="20" fill="#1a1a2e"/>
+  <!-- neck -->
+  <rect x="26" y="52" width="12" height="14" rx="4" fill="#c09060"/>
+  <!-- face — slightly softer oval -->
+  <ellipse cx="32" cy="37" rx="15" ry="17.5" fill="#c09060"/>
+  <!-- hair front cap — smooth top -->
+  <path d="M14 33 C14 17 18 9 32 9 C46 9 50 17 50 33 C50 24 47 15 40 13 C37 11.5 27 11.5 24 13 C17 15 14 24 14 33Z" fill="#2d1206"/>
+  <!-- slight hair volume sides -->
+  <ellipse cx="11" cy="36" rx="5" ry="10" fill="#2d1206"/>
+  <ellipse cx="53" cy="36" rx="5" ry="10" fill="#2d1206"/>
+  <!-- eyebrows — thin and arched -->
+  <path d="M23 28.5 Q26.5 26.5 29.5 27.5" stroke="#2d1206" stroke-width="1.1" fill="none" stroke-linecap="round"/>
+  <path d="M34.5 27.5 Q37.5 26.5 41 28.5" stroke="#2d1206" stroke-width="1.1" fill="none" stroke-linecap="round"/>
+  <!-- eyes — warm brown -->
+  <ellipse cx="26.5" cy="33" rx="2.4" ry="2.1" fill="#2d1206"/>
+  <ellipse cx="37.5" cy="33" rx="2.4" ry="2.1" fill="#2d1206"/>
+  <circle cx="27.5" cy="32.3" r="0.7" fill="rgba(255,255,255,0.6)"/>
+  <circle cx="38.5" cy="32.3" r="0.7" fill="rgba(255,255,255,0.6)"/>
+  <!-- nose — delicate -->
+  <path d="M30.5 37 Q32 39.5 33.5 37" stroke="#9a6832" stroke-width="0.9" fill="none" stroke-linecap="round"/>
+  <!-- mouth — full lip smile -->
+  <path d="M27.5 44 Q32 47 36.5 44" stroke="#9a5830" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M28.5 44 Q32 45.5 35.5 44" stroke="#c08050" stroke-width="0.8" fill="none" stroke-linecap="round"/>
+</svg>

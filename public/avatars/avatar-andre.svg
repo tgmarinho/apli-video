@@ -1,0 +1,30 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- bg -->
+  <rect width="64" height="64" fill="#f5e6d0"/>
+  <!-- shoulders -->
+  <ellipse cx="32" cy="80" rx="26" ry="20" fill="#1a1a1a"/>
+  <!-- neck -->
+  <rect x="25" y="53" width="14" height="14" rx="4" fill="#c8956c"/>
+  <!-- face -->
+  <ellipse cx="32" cy="38" rx="16.5" ry="18" fill="#c8956c"/>
+  <!-- hair top cap — dark wavy, tapers at sides -->
+  <path d="M14 36 C14 18 18 12 32 12 C46 12 50 18 50 36 C50 28 46 20 40 18 C36 16 28 16 24 18 C18 20 14 28 14 36Z" fill="#2a1505"/>
+  <!-- sideburns / ear hair -->
+  <rect x="14" y="32" width="3" height="8" rx="1.5" fill="#2a1505"/>
+  <rect x="47" y="32" width="3" height="8" rx="1.5" fill="#2a1505"/>
+  <!-- eyebrows -->
+  <path d="M23.5 30.5 Q26.5 28.5 29.5 30" stroke="#2a1505" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+  <path d="M34.5 30 Q37.5 28.5 40.5 30.5" stroke="#2a1505" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+  <!-- eyes -->
+  <ellipse cx="26.5" cy="35" rx="2.2" ry="2" fill="#1a0f05"/>
+  <ellipse cx="37.5" cy="35" rx="2.2" ry="2" fill="#1a0f05"/>
+  <!-- eye shine -->
+  <circle cx="27.5" cy="34.2" r="0.6" fill="rgba(255,255,255,0.5)"/>
+  <circle cx="38.5" cy="34.2" r="0.6" fill="rgba(255,255,255,0.5)"/>
+  <!-- nose -->
+  <path d="M30 39 Q32 42 34 39" stroke="#a06040" stroke-width="1" fill="none" stroke-linecap="round"/>
+  <!-- mouth -->
+  <path d="M27.5 46 Q32 49.5 36.5 46" stroke="#9a5c30" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+  <!-- subtle jaw shadow -->
+  <path d="M16 42 Q16 54 32 56 Q48 54 48 42" stroke="rgba(0,0,0,0.06)" stroke-width="2" fill="none"/>
+</svg>

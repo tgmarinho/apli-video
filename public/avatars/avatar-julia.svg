@@ -1,0 +1,27 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- bg -->
+  <rect width="64" height="64" fill="#f5edd8"/>
+  <!-- long hair behind face -->
+  <path d="M10 32 C10 16 16 8 32 8 C48 8 54 16 54 32 L54 70 L10 70Z" fill="#1a0808"/>
+  <!-- shoulders -->
+  <ellipse cx="32" cy="80" rx="26" ry="20" fill="#1a1a2a"/>
+  <!-- neck -->
+  <rect x="26" y="52" width="12" height="14" rx="4" fill="#d4a574"/>
+  <!-- face -->
+  <ellipse cx="32" cy="37" rx="15.5" ry="17" fill="#d4a574"/>
+  <!-- hair top — straight, slightly parted -->
+  <path d="M13 34 C13 18 18 10 32 10 C46 10 51 18 51 34 C51 26 47 16 40 14 C36.5 12.5 27.5 12.5 24 14 C17 16 13 26 13 34Z" fill="#1a0808"/>
+  <!-- eyebrows — higher arch, thinner -->
+  <path d="M23 29 Q26.5 27 29.5 28.5" stroke="#1a0808" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+  <path d="M34.5 28.5 Q37.5 27 41 29" stroke="#1a0808" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+  <!-- eyes — slightly larger, almond shaped -->
+  <ellipse cx="26.5" cy="33.5" rx="2.5" ry="2.2" fill="#1a0f05"/>
+  <ellipse cx="37.5" cy="33.5" rx="2.5" ry="2.2" fill="#1a0f05"/>
+  <!-- eye shine -->
+  <circle cx="27.5" cy="32.8" r="0.7" fill="rgba(255,255,255,0.55)"/>
+  <circle cx="38.5" cy="32.8" r="0.7" fill="rgba(255,255,255,0.55)"/>
+  <!-- nose -->
+  <path d="M30 37 Q32 40 34 37" stroke="#b08050" stroke-width="0.9" fill="none" stroke-linecap="round"/>
+  <!-- mouth — wider smile -->
+  <path d="M28 44.5 Q32 47.5 36 44.5" stroke="#a06438" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+</svg>
