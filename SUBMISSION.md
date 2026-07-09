@@ -2,16 +2,18 @@
 
 ## Repository
 
-TODO: Add public GitHub repository URL.
+https://github.com/tgmarinho/apli-video
 
 ## Rendered video
 
-Local renders:
+Primary submission:
+
+- https://github.com/tgmarinho/apli-video/blob/main/out/amplify-ats.mp4
+
+Additional render in the repository:
 
 - `out/amplify-ats.mp4` - ATS / talent signal version
 - `out/amplify-ats-website.mp4` - FDE / secure AI agents version inspired by https://amplifyit.io/fde
-
-TODO: Add public video URL or attach the MP4 to the repository/submission.
 
 ## Build in public post
 
