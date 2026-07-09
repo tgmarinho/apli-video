@@ -5,6 +5,40 @@
 
 ---
 
+## Submission Videos
+
+This repository includes two rendered Remotion videos:
+
+### 1. Amplify ATS — Talent Signal
+
+Primary submission for the original ATS challenge. It sells Amplify as an AI-native ATS for LATAM engineering hiring: natural-language brief, ranked shortlist, warm intros, LATAM salary range, visual pipeline, and 12-day close.
+
+<video src="./out/amplify-ats.mp4" controls width="100%"></video>
+
+[Download MP4](./out/amplify-ats.mp4)
+
+Render command:
+
+```bash
+npm run render
+```
+
+### 2. Amplify FDE — Secure AI Agents
+
+Alternative concept inspired by the FDE landing page. It focuses on Forward Deployed Engineers building production-ready enterprise AI agents safely and securely.
+
+<video src="./out/amplify-ats-website.mp4" controls width="100%"></video>
+
+[Download MP4](./out/amplify-ats-website.mp4)
+
+Render command:
+
+```bash
+npm run render:website
+```
+
+---
+
 ## O Desafio
 
 A **Amplify IT** é uma plataforma de recrutamento com IA para engenheiros de software da América Latina. Precisamos de um vídeo de marketing que venda nossa plataforma — e queremos que a comunidade brasileira de devs nos ajude a construir isso.

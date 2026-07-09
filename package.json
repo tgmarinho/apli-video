@@ -6,6 +6,7 @@
   "scripts": {
     "studio": "npx remotion studio src/index.ts",
     "render": "npx remotion render src/index.ts AmplifyATS out/amplify-ats.mp4",
+    "render:website": "npx remotion render src/index.ts AmplifyATSWebsite out/amplify-ats-website.mp4",
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
