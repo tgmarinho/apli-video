@@ -1,0 +1,6 @@
+<svg viewBox="0 0 80 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- Nubank wordmark-inspired, bold N + wordmark -->
+  <rect x="0" y="4" width="22" height="24" rx="4" fill="currentColor" opacity="0.9"/>
+  <text x="4" y="23" font-family="Inter, system-ui, sans-serif" font-weight="800" font-size="18" fill="white">N</text>
+  <text x="27" y="23" font-family="Inter, system-ui, sans-serif" font-weight="600" font-size="15" letter-spacing="-0.02em" fill="currentColor">nubank</text>
+</svg>
