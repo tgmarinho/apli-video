@@ -191,6 +191,9 @@ git push -u origin HEAD:solve-amplifyit-video-challenge
 https://github.com/tgmarinho/apli-video/pull/1
 ```
 
+4. The PR was later marked ready and merged into `main`.
+5. This process document was added afterward in commit `42b7954` so the implementation path is preserved for future review.
+
 ## 9. Current Outputs
 
 Primary ATS video:
